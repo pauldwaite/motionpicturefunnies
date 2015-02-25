@@ -1,0 +1,5 @@
+# Git was ignoring these itself just not, but apparently not any more.
+.DS_Store
+
+# Apparently Sublime Text project files should get committed, but not workspace files (https://github.com/github/gitignore/blob/master/Global/SublimeText.gitignore)
+*.sublime-workspace
